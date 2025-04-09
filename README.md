@@ -20,7 +20,7 @@ Deployed live on Netlify!
 - Netlify (Deployment)
 
 ## 📸 Screenshots
-![alt text](<to-do app.png>)
+![screenshot](</images/to-do app.png>)
 
 ## ✍️ Author
 Sakshi – Aspiring Full-Stack Web Developer
